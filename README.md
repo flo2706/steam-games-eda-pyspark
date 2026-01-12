@@ -78,11 +78,11 @@ L'étude s'inscrit dans une logique d'aide à la décision pour un éditeur de j
 ### Consultation des résultats (Analyse complète avec visualisations interactives)
 
 - [Ouvrir l’analyse exploratoire – Steam EDA (HTML)](./Steam.html)
-- Clicker sur `Download raw file`
+- Cliquer sur `Download raw file`
 - Ouvrir le fichier téléchargé dans votre navigateur
 
-
-
+> GitHub ne permet pas d'afficher ce fichier directement en raison de sa taille.
+> Le notebook PySpark nécessite un environnement Databricks avec accès au bucket S3.
 ---
 
 ### Source des données
