@@ -77,19 +77,11 @@ L'étude s'inscrit dans une logique d'aide à la décision pour un éditeur de j
 
 ### Consultation des résultats (Analyse complète avec visualisations)
 
-- Ouvrir `Steam.html`
-- Clicker sur `Download raw file`
-  <p align="center">
-  <a href="Steam.html">
-    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
-      <polyline points="7 10 12 15 17 10"/>
-      <line x1="12" y1="15" x2="12" y2="3"/>
-    </svg>
-    <br/>
-    <strong>Download the full interactive analysis (HTML)</strong>
-  </a>
-</p>
+- [Ouvrir l’analyse exploratoire – Steam EDA (HTML)](./Steam.html)
+- Clicker sur `Download raw file` <img width="31" height="33" alt="image" src="https://github.com/user-attachments/assets/41833081-fd86-4c9d-ba1d-0e3b9400d882" />
+- Ouvrir le fichier dans votre navigateur
+
+
 
 ---
 
