@@ -63,6 +63,16 @@ L'étude s'inscrit dans une logique d'aide à la décision pour un éditeur de j
 - Spécificités de certains genres selon les plateformes
 
 ---
+### Key insights
+
+- Le marché Steam est fortement dominé par Windows, tous genres confondus.
+- Les genres Indie et Simulation présentent une meilleure diversité de plateformes.
+- Les éditeurs prolifiques ne sont pas nécessairement ceux ayant les meilleures évaluations.
+- Les périodes post-2020 montrent une augmentation significative du nombre de sorties.
+
+
+--- 
+
 
 ### Technologies utilisées
 
@@ -81,7 +91,7 @@ L'étude s'inscrit dans une logique d'aide à la décision pour un éditeur de j
 - Cliquer sur `Download raw file`
 - Ouvrir le fichier téléchargé dans votre navigateur
 
-> GitHub ne permet pas d'afficher ce fichier directement en raison de sa taille.
+> GitHub ne permet pas d'afficher ce fichier directement en raison de sa taille.  
 > Le notebook PySpark nécessite un environnement Databricks avec accès au bucket S3.
 ---
 
