@@ -62,14 +62,6 @@ L'étude s'inscrit dans une logique d'aide à la décision pour un éditeur de j
 - Disponibilité des jeux sur Windows, Mac et Linux
 - Spécificités de certains genres selon les plateformes
 
----
-### Key insights
-
-- Le marché Steam est fortement dominé par Windows, tous genres confondus.
-- Les genres Indie et Simulation présentent une meilleure diversité de plateformes.
-- Les éditeurs prolifiques ne sont pas nécessairement ceux ayant les meilleures évaluations.
-- Les périodes post-2020 montrent une augmentation significative du nombre de sorties.
-
 
 --- 
 
