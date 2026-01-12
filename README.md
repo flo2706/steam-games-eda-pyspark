@@ -75,11 +75,11 @@ L'étude s'inscrit dans une logique d'aide à la décision pour un éditeur de j
 
 ---
 
-### Consultation des résultats (Analyse complète avec visualisations)
+### Consultation des résultats (Analyse complète avec visualisations interactives)
 
 - [Ouvrir l’analyse exploratoire – Steam EDA (HTML)](./Steam.html)
-- Clicker sur `Download raw file` <img width="31" height="33" alt="image" src="https://github.com/user-attachments/assets/41833081-fd86-4c9d-ba1d-0e3b9400d882" />
-- Ouvrir le fichier dans votre navigateur
+- Clicker sur `Download raw file`
+- Ouvrir le fichier téléchargé dans votre navigateur
 
 
 
