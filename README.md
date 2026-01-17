@@ -54,7 +54,7 @@ L'étude s'inscrit dans une logique d'aide à la décision pour un éditeur de j
 
 - Genres les plus représentés
 - Genres les mieux notés 
-- Genres les plus lucratifs (estimation)
+- Genres les plus lucratifs (estimation basée sur les prix et la popularité)
 - Spécialisation éventuelle de certains éditeurs
 
 #### Analyse par plateforme
@@ -94,10 +94,10 @@ Données hébergées sur Amazon S3 (données pédagogiques - Jedha) :
 
 ---
 
-## Contexte
+### Contexte
 
-Projet initialement réalisé dans le cadre de la certification **« Concepteur Développeur en Sciences des Données » (RNCP 35288 – Jedha)**  
-Bloc 2 : *Analyse exploratoire des données*. 
+Projet initialement réalisé dans le cadre de la certification **« Concepteur Développeur en Science des Données » (RNCP 35288 – Jedha)**  
+Bloc 2 : *Analyse exploratoire des données*
 
 
 
